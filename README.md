@@ -28,3 +28,12 @@
   - JWT
   - cookies
   - axios
+
+
+<img width="958" alt="image" src="https://github.com/aniketkumargiri/Book-Store/assets/81965936/08497281-90ef-4e70-910f-d77bd9c0f213">
+<img width="949" alt="image" src="https://github.com/aniketkumargiri/Book-Store/assets/81965936/8649ff67-640d-4982-824f-e7b2931850d2">
+<img width="949" alt="image" src="https://github.com/aniketkumargiri/Book-Store/assets/81965936/2a1e3b53-3484-4023-a276-bf95aa10efdd">
+<img width="948" alt="image" src="https://github.com/aniketkumargiri/Book-Store/assets/81965936/aa9c8d09-6a1a-4e07-b7fc-4bca3f6fbbbf">
+<img width="948" alt="image" src="https://github.com/aniketkumargiri/Book-Store/assets/81965936/4199e812-7208-499d-8e2d-9a04b3d3588c">
+<img width="765" alt="image" src="https://github.com/aniketkumargiri/Book-Store/assets/81965936/30e08f4a-8893-4fc2-9e77-480c588e7446">
+
