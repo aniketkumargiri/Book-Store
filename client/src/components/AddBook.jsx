@@ -70,7 +70,7 @@ const AddBook = () => {
               id="image"
               name="image"
               className="w-full px-3 py-2 border rounded"
-              placeholder="Enter Grade"
+              placeholder="Enter Image URL"
               value={imageUrl}
               onChange={(e) => setImageUrl(e.target.value)}
             />
